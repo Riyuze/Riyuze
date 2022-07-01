@@ -2,9 +2,15 @@
   <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="100"/>
   
   <div id="badges>
+  
+  <a href="">
+    <img src="https://img.shields.io/badge/kevo211001@gmail.com-critical?style=for-the-badge" alt="Email Badge"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/kevin-tandavo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
+  
   <a href="https://www.instagram.com/kevintandavo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
