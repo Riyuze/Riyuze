@@ -35,7 +35,7 @@ I am an Electrical Engineering Student from Indonesia.
 
 🔭 I’m currently working on becoming a better programmer.
 
-🌱 I’m currently learning ReactJS.
+🌱 I’m currently learning about Artificial Intelligence.
 
 ⚡ In my free time, I love doing sports and solving coding problems.
 
