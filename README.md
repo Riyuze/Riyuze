@@ -45,8 +45,8 @@ I am an Electrical Engineering Student from Indonesia.
 
 ### :hammer_and_wrench: Languages and Tools :
                  
-  | Programming Languages | Frontend Development | Backend Development | Mobile Development | Artificial Intelligence | Database | Devops | Hosting | Framework | 
-  | :-------------------: | :------------------: | :-----------------: | :----------------: | :---------------------: | :------: | :----: | :-----: | :-------: |
+  | Programming Languages | Frontend Development | Backend Development | Mobile Development | Database | Hosting | Framework | 
+  | :-------------------: | :------------------: | :-----------------: | :----------------: | :------: | :-----: | :-------: |
   | Python                | 
                
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
