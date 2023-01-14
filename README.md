@@ -45,30 +45,10 @@ I am an Electrical Engineering Student from Indonesia.
 
 ### :hammer_and_wrench: Languages and Tools :
                  
-    <thead>
-      <tr>
-        <th>words</th>
-        <th>transform to</th>
-        <th>keepUpperCase is false</th>
-        <th>keepUpperCase is true</th>
-      </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>"XML HTTP request"</td>
-            <td>pascalCase</td>
-            <td><code>XmlHttpRequest</code></td>
-            <td><code>XMLHTTPRequest</code></td>
-        </tr>
-        <tr>
-            <td>"new customer ID"</td>
-            <td>camelCase</td>
-            <td><code>newCustomerId</code></td>
-            <td><code>newCustomerID</code></td>
-        </tr>
-    </tbody>
-  </table>
-
+  | Programming Languages | Test | Test |
+  | --------------------- | ---- | ---- |
+  | Python                | Test | Test |
+               
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
