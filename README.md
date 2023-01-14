@@ -64,8 +64,8 @@ I am an Electrical Engineering Student from Indonesia.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Riyuze&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Riyuze&theme=dark)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyuze&hide=jupyter%20notebook,css&show_icons=true&layout=compact&theme=vision-friendly-dark&locale=en)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyuze&hide=jupyter%20notebook,css&show_icons=true&layout=compact&theme=vision-friendly-dark&locale=en)]
 
 </div>
