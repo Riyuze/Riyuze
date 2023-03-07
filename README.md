@@ -56,7 +56,7 @@ I am an Electrical Engineering Student from Indonesia.
   | | <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/> |   
   | | <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>  | 
   | | <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/> |
-  | | |
+  | | 
                                                                           
 ---
 
