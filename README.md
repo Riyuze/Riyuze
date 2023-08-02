@@ -19,7 +19,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Riyuze&style=flat-square&color=blue" alt=""/>
 
-[http://tandavo.tech/](http://tandavo.tech/)
+[tandavo.tech/](tandavo.tech/)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
