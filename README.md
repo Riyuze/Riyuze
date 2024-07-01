@@ -33,7 +33,7 @@
 
 I am a Software Engineer from Indonesia.
 
-🔭 I’m currently working on becoming a better programmer.
+🔭 I’m currently working as a Software Engineer in OCBC Bank.
 
 🌱 I’m currently learning about Web Development specifically using Golang.
 
