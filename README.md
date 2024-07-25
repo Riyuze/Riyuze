@@ -33,9 +33,9 @@
 
 I am a Software Engineer from Indonesia.
 
-🔭 I’m currently working as a Software Engineer in OCBC Bank.
+🔭 Currently employed as a Software Engineer in OCBC Bank.
 
-🌱 I’m currently learning about Web Development specifically using Golang.
+🌱 In the process of learning about Web Development specifically using Golang.
 
 ⚡ In my free time, I love doing sports and solving coding problems.
 
