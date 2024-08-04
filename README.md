@@ -19,8 +19,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Riyuze&style=flat-square&color=blue" alt=""/>
 
-[https://tandavo.tech/](https://tandavo.tech/)
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
