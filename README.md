@@ -1,47 +1,51 @@
 <div id="header" align="center">
+  <h1 align="center">Henlow! I'm Kevin Tandavo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h1>
   <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="100"/>
-  
+  <h4 align="center">You can call me Kevo though.</h4>
   <div id="badges>
-  
-  <a href="">
-    <img src="https://img.shields.io/badge/kevo211001@gmail.com-critical?style=for-the-badge" alt="Email Badge"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/kevin-tandavo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-  
-  <a href="https://www.instagram.com/kevintandavo/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-
+    <a href="">
+      <img src="https://img.shields.io/badge/kevo211001@gmail.com-critical?style=for-the-badge" alt="Email Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/kevin-tandavo/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    </a>
+    <a href="https://www.instagram.com/kevintandavo/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </div>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=Riyuze&style=flat-square&color=blue" alt=""/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-<div align="left">
 
 ---
 
-### :man_technologist: About Me : 
+### :man_technologist: Who Am I? : 
+```python
+class Kevo:
+    def __init__(self):
+        self.name = "Kevin Tandavo"
+        self.work = "Software Engineer"
+        self.hobbies = [
+                "Volleyball",
+                "Gaming",
+                "Staying up all night fixing that ONE bug..."
+            ]
 
-I am a Software Engineer from Indonesia.
+    def __str__(self):
+        return f"Henlow! I'm {self.name}!"
 
-🔭 Currently employed as a Software Engineer in OCBC Bank.
+    def get_country():
+        return indonesia()
 
-🌱 In the process of learning about Web Development specifically using Golang.
-
-⚡ In my free time, I love doing sports and solving coding problems.
-
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/KevinTandavo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-tandavo/)
+    def set_ambitions():
+        create_blockchain()
+        jump_higher()
+        learn_japanese()
+        # TODO: Add more ambitions 
+```
+Glad to see you here! I'm Kevo, a **Full-Stack Software Engineer** building seamless payment solutions at [OCBC](https://www.ocbc.id/). With a strong passion for **Web Development**, **Machine Learning**, and **Blockchain**, I balance code with **volleyball** 🏐 and find peace immersing myself in the vast world of **video games** 🎮. 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Technologies and Tools :
                  
   | Programming Languages | Frontend Development | Backend Development | Mobile Development | Databases | Hosting | Machine Learning | Others |
   | :-------------------: | :------------------: | :-----------------: | :----------------: | :------: | :-----: | :-------: | :----: |
@@ -59,8 +63,6 @@ I am a Software Engineer from Indonesia.
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://streak-stats.demolab.com?user=Riyuze&theme=dark)
+![GitHub Streak](http://streak-stats.demolab.com?user=Riyuze&theme=dark) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyuze&hide=jupyter%20notebook,css&show_icons=true&layout=compact&theme=vision-friendly-dark&locale=en)
-
-</div>
