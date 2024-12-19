@@ -74,14 +74,11 @@ I mostly work with **Golang** and **Typescript**, specifically utilizing **Gin G
   <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=ffffff&logoColor=47A248&logo=mongodb" alt="MongoDB"/></a>
 </div>
 
-#### Deployments
-
+#### Logging and Tracing
 
 #### Machine Learning
 
-
-#### Logging and Tracing
-
+#### Deployments
 
 #### General
                                                                 
