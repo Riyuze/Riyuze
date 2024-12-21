@@ -74,18 +74,46 @@ I mostly work with **Golang** and **Typescript**, specifically utilizing **Gin G
   <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=ffffff&logoColor=47A248&logo=mongodb" alt="MongoDB"/></a>
 </div>
 
+#### Deployments
+<div>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=ffffff&logoColor=2496ED&logo=docker" alt="Docker"/></a>
+  <a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&labelColor=ffffff&logoColor=D24939&logo=jenkins" alt="Jenkins"/></a>
+  <a href="https://www.consul.io"><img src="https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&labelColor=ffffff&logoColor=F24C53&logo=consul" alt="Consul"/></a>
+  <a href="https://www.heroku.com"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&labelColor=ffffff&logoColor=430098&logo=heroku" alt="Heroku"/></a>
+  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&labelColor=ffffff&logoColor=DD2C00&logo=firebase" alt="Firebase"/></a>
+</div>
+
 #### Logging and Tracing
+<div>
+  <a href="https://www.jaegertracing.io"><img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&labelColor=ffffff&logoColor=66CFE3&logo=jaeger" alt="Jarger"/></a>
+  <a href="https://prometheus.io"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&labelColor=ffffff&logoColor=E6522C&logo=prometheus" alt="Prometheus"/></a>
+  <a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&labelColor=ffffff&logoColor=F46800&logo=grafana" alt="Grafana"/></a>
+  <a href="https://www.elastic.co"><img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&labelColor=ffffff&logoColor=005571&logo=elastic" alt="Elastic"/></a>
+  <a href="https://www.elastic.co/logstash"><img src="https://img.shields.io/badge/Logstash-3EBEB0?style=for-the-badge&labelColor=ffffff&logoColor=3EBEB0&logo=logstash" alt="Logstash"/></a>
+  <a href="https://www.elastic.co/kibana"><img src="https://img.shields.io/badge/Kibana-1C6560?style=for-the-badge&labelColor=ffffff&logoColor=1C6560&logo=kibana" alt="Kibana"/></a>
+</div>
 
 #### Machine Learning
-
-#### Deployments
+<div>
+  <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&labelColor=ffffff&logoColor=FF6F00&logo=tensorflow" alt="Tensorflow"/></a>
+  <a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-0101FF?style=for-the-badge&labelColor=ffffff&logoColor=0101FF&logo=opencv" alt="OpenCV"/></a>
+</div>
 
 #### General
+<div>
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=ffffff&logoColor=F05032&logo=git" alt="Git"/></a>
+  <a href="https://www.gnu.org/software/bash"><img src="https://img.shields.io/badge/Bash-1B1B1F?style=for-the-badge&labelColor=ffffff&logoColor=1B1B1F&logo=gnubash" alt="Bash"/></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&labelColor=ffffff&logoColor=181717&logo=github" alt="Github"/></a>
+  <a href="https://about.gitlab.com"><img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&labelColor=ffffff&logoColor=FC6D26&logo=gitlab" alt="Gitlab"/></a>
+</div>
                                                                 
 ---
 
 ### :fire: My Stats :
+<div align="center">
+  
+  <img height="224px" src="http://streak-stats.demolab.com?user=Riyuze&theme=dark" alt="Github Streaks"/>
+  <img height="224px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyuze&hide=jupyter%20notebook,css,procfile&show_icons=true&layout=compact&theme=dark&locale=en" alt="Most Used Languages"/>
+  
+</div>
 
-![GitHub Streak](http://streak-stats.demolab.com?user=Riyuze&theme=dark) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyuze&hide=jupyter%20notebook,css&show_icons=true&layout=compact&theme=vision-friendly-dark&locale=en)
