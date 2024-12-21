@@ -111,7 +111,7 @@ I mostly work with **Golang** and **Typescript**, specifically utilizing **Gin G
 ---
 
 ### :fire: My Stats :
-<div align="center">
+<div>
   
   <img height="180px" src="http://streak-stats.demolab.com?user=Riyuze&theme=dark" alt="Github Streaks"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyuze&hide=jupyter%20notebook,css,procfile&show_icons=true&layout=compact&theme=dark&locale=en" alt="Most Used Languages"/>
