@@ -58,6 +58,7 @@ I mostly work with **Golang** and **Typescript**, specifically utilizing **Gin G
   <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=ffffff&logoColor=44b78a&logo=django" alt="Django"/></a>
   <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=flask" alt="Flask"/></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=ffffff&logoColor=339933&logo=nodedotjs" alt="Node JS"/></a>
+  <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=express" alt="Express"/></a>
 </div>
 
 #### Frontend Development
