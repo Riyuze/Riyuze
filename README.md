@@ -5,7 +5,6 @@
   <div id="badges">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevo211001@gmail.com&su=SUBJECT&body=BODY"><img src="https://img.shields.io/badge/kevo211001@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
     <a href="https://www.linkedin.com/in/kevin-tandavo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
-    <a href="https://www.instagram.com/kevintandavo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   </div>
 </div>
 
