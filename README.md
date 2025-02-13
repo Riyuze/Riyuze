@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Henlow! I'm Kevin Tandavo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h1>
-  <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="100"/>
+  <img src="https://github.com/Riyuze/Riyuze/blob/main/Mario%20Coding.gif" />
   <h4 align="center">You can call me Kevo though.</h4>
   <div id="badges">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevo211001@gmail.com&su=SUBJECT&body=BODY"><img src="https://img.shields.io/badge/kevo211001@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
