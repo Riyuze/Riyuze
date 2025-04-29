@@ -29,7 +29,7 @@ class Kevo:
         return indonesia()
 
     def set_ambitions():
-        create_blockchain()
+        work_in_big_tech()
         jump_higher()
         learn_japanese()
         # TODO: Add more ambitions 
