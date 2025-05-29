@@ -11,28 +11,68 @@
 ---
 
 ### :man_technologist: Who Am I? : 
-```python
-class Kevo:
-    def __init__(self):
-        self.name = "Kevin Tandavo"
-        self.work = "Software Engineer"
-        self.hobbies = [
-                "Volleyball",
-                "Gaming",
-                "Staying up all night fixing that ONE bug..."
-            ]
+```go
+package main
 
-    def __str__(self):
-        return f"Henlow! I'm {self.name}!"
+import "fmt"
 
-    def get_country():
-        return indonesia()
+type Kevo interface {
+	GetCountry() string
+	SetAmbitions(ambitions []string)
+}
 
-    def set_ambitions():
-        work_in_big_tech()
-        jump_higher()
-        learn_japanese()
-        # TODO: Add more ambitions 
+type KevoImpl struct {
+	Name      string
+	Age       int
+	Work      string
+	Hobbies   []string
+	Ambitions []string
+}
+
+func NewKevo() Kevo {
+	name := "Kevo"
+	age := 23
+	work := "Software Engineer"
+	hobbies := []string{
+		"Sports",
+		"Gaming",
+		"Staying up all night fixing that ONE bug...",
+	}
+
+	fmt.Printf("Henlow! My name is %s! Nice to meet you!\n", name)
+
+	return &KevoImpl{
+		Name:    name,
+		Age:     age,
+		Work:    work,
+		Hobbies: hobbies,
+	}
+}
+
+func (k *KevoImpl) GetCountry() string {
+	return "Indonesia"
+}
+
+func (k *KevoImpl) SetAmbitions(ambitions []string) {
+	k.Ambitions = ambitions
+}
+
+func main() {
+	kevo := NewKevo()
+
+	fmt.Printf("I am from: %s\n", kevo.GetCountry())
+
+	ambitions := []string{
+		"Work in big tech",
+		"Jump higher",
+		"Learn japanese",
+		// TODO: Add more ambitions
+	}
+
+	kevo.SetAmbitions(ambitions)
+
+	fmt.Printf("%+v", kevo)
+}
 ```
 Glad to see you here! I'm Kevo, a **Full-Stack Software Engineer** building seamless payment solutions at [OCBC](https://www.ocbc.id/). With a strong passion for **Web Development**, **Machine Learning**, and **Blockchain**, I balance code with **volleyball** 🏐 and find peace immersing myself in the vast world of **video games** 🎮. 
 
